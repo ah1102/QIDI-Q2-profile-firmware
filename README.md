@@ -94,3 +94,5 @@ QIDI-Q2-profile-firmware/
 ├── saved_variables.cfg.bak       # Бэкап переменных
 └── timelapse.cfg                 # Настройка таймлапсов
 ```
+### Прочее
+Прошивки QIDI Q2 https://github.com/kokoc26/qidi-q2-fw 
